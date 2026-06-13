@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ## 🚀 About Me  <br><br>🔭 I’m currently working on  <br>- 🎲 Coding Skills  <br>- 🌐 Web development projects  <br><br>👯 I’m looking to collaborate on  <br>- 💻 Open-source projects  <br>- 🌍 Web apps & real-time applications  <br><br>🤝 I’m looking for help with  <br>- ⚡ Backend development    <br><br>🌱 I’m currently learning  <br>- HTML, CSS, JavaScript  <br>- Java, C, C++  <br>- Python  <br>- 🚀 Backend & Full Stack Development  <br><br>💬 Ask me about  <br>- 🎮 Games  <br>- 🌐 Frontend basics  <br>- 💡 Beginner coding guidance  <br><br>⚡ Fun fact  <br>- 🎮 I combine gaming + coding to build creative projects  
 
 
